@@ -1,6 +1,6 @@
 # 십이장기 게임
 ---
-![장기판](./img/main.png)
+![장기판](./img/main.PNG)
 
 - 개요
  
@@ -24,4 +24,4 @@
    
 - 프로그램 구조
  
-  ![다이어그램](./img/diagram.png)
+  ![다이어그램](./img/diagram.PNG)
